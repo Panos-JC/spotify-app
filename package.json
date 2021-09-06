@@ -16,7 +16,7 @@
     "server": "nodemon index.js",
     "client": "cd client && yarn start",
     "postinstall": "cd client && yarn install",
-    "build": "NODE_ENV=production cd client/ && yarn install && yarn build",
+    "build": "NODE_ENV=production cd client/ && yarn install && npm run build",
     "start-server": "node index.js"
   },
   "keywords": [],
