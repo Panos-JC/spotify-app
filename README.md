@@ -2,6 +2,10 @@
 
 A web app for visualizing your personal Spotify data
 
+## Demo
+
+[DEMO](https://yourspotifyapp.herokuapp.com/)
+
 ## Built with
 
 - [Create React App](https://create-react-app.dev/)
